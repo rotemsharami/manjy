@@ -1,0 +1,41 @@
+.login{
+    margin: 10px 0px 0px 0px;
+    padding: 0px;
+    float: right;
+    button{
+        background-color: #7adaff;
+        border: 0px;
+        height: 32px;
+        width: 100%;
+        color: #0072a9;
+        font-weight: bold;
+    }
+    button:hover{
+        background-color: #58c3ed;
+    }
+    input{
+        width: 100%;
+        background: #fff;
+        border: 2px solid #7adaff;
+        color: #005882;
+        height: 32px;
+    }
+    .username{
+        margin-right: 2px;
+        margin: 0px 2px 0px 0px;
+        padding: 0px;
+    }
+    .password{
+        margin-right: 2px;
+        margin: 0px 2px 0px 0px;
+        padding: 0px;
+    }
+
+    .submit_button{
+        margin-right: 2px;
+        margin: 0px 2px 0px 0px;
+        padding: 0px;
+        max-width: 60px;
+    }
+
+}

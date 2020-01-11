@@ -1,0 +1,23 @@
+.menu{
+    display: inline;
+    float: left;
+    margin: 10px 0px 0px 0px;
+    padding: 0px;
+    li{
+        list-style: none;
+        display: inline-block;
+        margin: 0px 10px 0px 0px;
+        font-weight: bold;
+        font-size: 20px;
+        padding: 0px;
+    }
+    a{
+        color: #FFF;;
+    }
+    a:hover{
+        color:#d3f3ff;
+    }
+    a.active{
+        color: #7adaff;
+    }
+}
